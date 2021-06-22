@@ -6,9 +6,7 @@ Curso básico y breve sobre Redes Neuronales Artificiales en la IV Mexican Astro
 
 **Colaborador:** Juan de Dios Rojas Olvera (Facultad de Ciencias, UNAM)
 
-**Duración:** 45 min + 15 min de preguntas o ejercicios. 
-
-El mini-curso se divide en tres secciones de 15 min:
+**Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica:
 
 - 1-15 min. Primeras neuronas artificiales. **Notebook: 1-Primeras_neuronas_artificiales.ipynb**
 	- Referencias de la sección:
