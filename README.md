@@ -24,6 +24,13 @@ El mini-curso se divide en tres secciones de 15 min:
 	- Referencias de la sección:
 		- Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
 
+    	- https://kevinbinz.com/2019/05/26/intro-gradient-descent/
+
+    	- https://mlfromscratch.com/activation-functions-explained/#/
+    	
+    	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
+
+
 - 30-45 min. Redes neuronales con múltiples capas. **Notebook: 3-Redes_neuronales_keras.ipynb**
 	- Referencias de la sección:
 		- https://keras.io/
