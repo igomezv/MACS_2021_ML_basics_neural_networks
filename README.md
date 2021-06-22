@@ -47,12 +47,12 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 - 45-60 min. Sesión de preguntas o trabajar algún ejercicio en grupo.
 	- Ejercicios opcionales:
-		- 1. Compuertas lógicas (Notebook 1).
-		- 2. Clasificación lineal (Notebook 1).
-		- 3. Aproximar función con red neuronal de una capa (Notebook 2).
-		- 4. Aprender funciones con redes de múltiples capas y neuronas (Notebook 3).
-		- 5. Reducir tiempos (Notebook 3).
-		- 6. Modelar datos de JLA (Notebook 3).
+		1. Compuertas lógicas (Notebook 1).
+		2. Clasificación lineal (Notebook 1).
+		3. Aproximar función con red neuronal de una capa (Notebook 2).
+		4. Aprender funciones con redes de múltiples capas y neuronas (Notebook 3).
+		5. Reducir tiempos (Notebook 3).
+		6. Modelar datos de JLA (Notebook 3).
 
 Cartel del evento:
 ![](https://github.com/igomezv/MACS_2021_neural_networks/blob/main/figures/macs.jpg)
