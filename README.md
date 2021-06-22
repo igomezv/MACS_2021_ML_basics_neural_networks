@@ -12,7 +12,7 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 **Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica:
 
-- 1-15 min. Primeras neuronas artificiales. **Notebook: 1-Primeras_neuronas_artificiales.ipynb**
+- 12:00-12:20. Primeras neuronas artificiales. **Notebook: 1-Primeras_neuronas_artificiales.ipynb**
 	- Referencias de la sección:
 		- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133. 
 
@@ -22,7 +22,7 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 		- https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html 
 
-- 15-30 min. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). **Notebook: 2-Red_neuronal_backpropagation.ipynb**
+- 12:20-12:40. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). **Notebook: 2-Red_neuronal_backpropagation.ipynb**
 	- Referencias de la sección:
 		- Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
 
@@ -33,7 +33,7 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
     	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
 
 
-- 30-45 min. Redes neuronales con múltiples capas. **Notebook: 3-Redes_neuronales_keras.ipynb**
+- 12:40-13:00. Redes neuronales con múltiples capas. **Notebook: 3-Redes_neuronales_keras.ipynb**
 	- Referencias de la sección:
 		- https://keras.io/
 
@@ -45,7 +45,7 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 		- Vázquez, J. A., Esquivel, R. M., & Gómez-Vargas, I. (2021). Cosmologıa observacional con Redes Neuronales Artificiales. Esta edición fue preparada por el Instituto de Física y el Instituto de Ciencias Físicas de la UNAM., 89.
 
-- 45-60 min. Sesión de preguntas o trabajar algún ejercicio en grupo.
+- 13:00-13:30. Sesión de preguntas o trabajar algún ejercicio en grupo.
 	- Ejercicios opcionales:
 		1. Compuertas lógicas (Notebook 1).
 		2. Clasificación lineal (Notebook 1).
