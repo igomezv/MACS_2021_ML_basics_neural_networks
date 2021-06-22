@@ -2,7 +2,9 @@
 
 La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCosmoStatistics School [(MACS)](http://fisica.ugto.mx/~events/macss/?fbclid=IwAR1UObd3h7WdAYEb3mFOGypAjqXY1LJH3dJ1x24dMrvGoWeiDskgK2vECDc) consiste en un curso básico y breve sobre Redes Neuronales Artificiales.
 
-**Fecha:** Lunes 28 de junio de 2021. 12-13:30.
+**Fecha:** Lunes 28 de junio de 2021. 
+
+**Hora:** 12:00-13:30.
 
 **Instructores:** José Alberto Vázquez (ICF-UNAM) e Isidro Gómez-Vargas (ICF-UNAM)
 
