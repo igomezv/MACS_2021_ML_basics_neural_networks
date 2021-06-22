@@ -6,7 +6,7 @@ Curso básico y breve sobre Redes Neuronales Artificiales en la IV Mexican Astro
 
 **Colaborador:** Juan de Dios Rojas Olvera (Facultad de Ciencias, UNAM)
 
-**Duración:** 1hr 30min + preguntas. 
+**Duración:** 45 min + 15 min de preguntas o ejercicios. 
 
 El mini-curso se divide en tres secciones de 15 min:
 
@@ -27,7 +27,7 @@ El mini-curso se divide en tres secciones de 15 min:
     	- https://kevinbinz.com/2019/05/26/intro-gradient-descent/
 
     	- https://mlfromscratch.com/activation-functions-explained/#/
-    	
+
     	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
 
 
