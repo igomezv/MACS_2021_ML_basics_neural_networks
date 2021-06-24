@@ -10,7 +10,19 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 **Colaborador:** Juan de Dios Rojas Olvera (Facultad de Ciencias, UNAM)
 
-**Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica:
+**Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica.
+
+-----------------------------------
+**Requisitos**
+
+- Una computadora e internet. 
+- Una cuenta de Google. 
+
+Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo utilizar Python 2 o Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
+
+-----------------------------------
+
+**Plan del mini-curso:**
 
 - 12:00-12:20. Primeras neuronas artificiales. **Notebook: 1-Primeras_neuronas_artificiales.ipynb**
 	- Referencias de la sección:
@@ -54,11 +66,6 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 		5. Reducir tiempos (Notebook 3).
 		6. Modelar datos de JLA (Notebook 3).
 
------------------------------------
-
-Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo Python 2 y Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
-
------------------------------------
 
 
 Cartel del evento:
