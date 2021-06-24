@@ -26,7 +26,7 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 -----------------------------------
 
-## Plan del mini-curso:
+## Plan del mini-curso
 
 - 12:00-12:20. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	
@@ -82,6 +82,6 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 -----------------------------
 
-## Cartel del evento:
+## Cartel del evento
 
 ![](https://github.com/igomezv/MACS_2021_neural_networks/blob/main/figures/macs.jpg)
