@@ -22,7 +22,7 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
 
 Desde [Google Colab](https://colab.research.google.com) puedes buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios. También puedes clonar o descargar el repositorio y abrir las notebooks desde Google Colab. 
 
-Se recomienda descargar el repositorio el día del evento para tener la versión final. 
+**Se recomienda descargar, clonar o acceder al repositorio el día del evento para tener la versión final.**
 
 -----------------------------------
 
