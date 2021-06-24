@@ -24,7 +24,7 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
 
 **Plan del mini-curso:**
 
-- 12:00-12:20. Primeras neuronas artificiales. **Notebook: 1-Primeras_neuronas_artificiales.ipynb**
+- 12:00-12:20. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	- Referencias de la sección:
 		- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133. 
 
@@ -34,7 +34,7 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
 
 		- https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html 
 
-- 12:20-12:40. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). **Notebook: 2-Red_neuronal_backpropagation.ipynb**
+- 12:20-12:40. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
 	- Referencias de la sección:
 		- Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
 
@@ -45,7 +45,7 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
     	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
 
 
-- 12:40-13:00. Redes neuronales con múltiples capas. **Notebook: 3-Redes_neuronales_keras.ipynb**
+- 12:40-13:00. Redes neuronales con múltiples capas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 	- Referencias de la sección:
 		- https://keras.io/
 
@@ -67,6 +67,7 @@ Para evitar instalación de librerías se recomienda [Google Colab](https://cola
 		6. Modelar datos de JLA (Notebook 3).
 
 
+-----------------------------
 
 Cartel del evento:
 ![](https://github.com/igomezv/MACS_2021_neural_networks/blob/main/figures/macs.jpg)
