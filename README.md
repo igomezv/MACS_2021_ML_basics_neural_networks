@@ -54,5 +54,12 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 		5. Reducir tiempos (Notebook 3).
 		6. Modelar datos de JLA (Notebook 3).
 
+-----------------------------------
+
+Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo Python 2 y Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
+
+-----------------------------------
+
+
 Cartel del evento:
 ![](https://github.com/igomezv/MACS_2021_neural_networks/blob/main/figures/macs.jpg)
