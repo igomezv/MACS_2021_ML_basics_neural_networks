@@ -42,6 +42,7 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 	4. Aprender funciones con redes de múltiples capas y neuronas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 	5. Reducir tiempos ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 	6. Modelar datos de JLA ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+	7. Clasificar estrellas, galaxias y cuásares del SDSS-DR14 ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb) y [notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).	
 
 -----------------------------
 
