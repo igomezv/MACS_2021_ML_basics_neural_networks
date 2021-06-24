@@ -20,6 +20,10 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 
 Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo utilizar Python 2 o Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
 
+Desde [Google Colab](https://colab.research.google.com) puedes buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios. También puedes clonar o descargar el repositorio y abrir las notebooks desde Google Colab. 
+
+Se recomienda descargar el repositorio el día del evento para tener la versión final. 
+
 -----------------------------------
 
 **Plan del mini-curso:**
