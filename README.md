@@ -13,9 +13,9 @@ La primera parte del curso **Machine Learning Basics** de la IV Mexican AstroCos
 **Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica.
 
 -----------------------------------
-**Requisitos**
+## Requisitos
 
-- Una computadora e internet. 
+- Una computadora e Internet. 
 - Una cuenta de Google. 
 
 Para evitar instalación de librerías se recomienda [Google Colab](https://colab.research.google.com), el cual es un servicio gratuito de Google para ejecutar *notebooks* en la nube, permitiendo utilizar Python 2 o Python 3 con CPU, GPU y TPU. Solo es necesario tener una cuenta de Google. Para este mini-curso se requiere entorno de ejecución Python 3. 
@@ -26,7 +26,7 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 -----------------------------------
 
-**Plan del mini-curso:**
+## Plan del mini-curso:
 
 - 12:00-12:20. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	- Referencias de la sección:
@@ -73,5 +73,6 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 -----------------------------
 
-Cartel del evento:
+## Cartel del evento:
+
 ![](https://github.com/igomezv/MACS_2021_neural_networks/blob/main/figures/macs.jpg)
