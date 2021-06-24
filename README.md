@@ -34,50 +34,51 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 - 12:40-13:00. Redes neuronales con múltiples capas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 
-- 13:00-13:30. Sesión de preguntas o trabajar algún ejercicio en grupo.
-	- Por votación, se trabajará en alguno de los ejercicios opcionales en la parte final del mini-curso:
-		1. Compuertas lógicas ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
-		2. Clasificación lineal ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
-		3. Aproximar función con red neuronal de una capa ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
-		4. Aprender funciones con redes de múltiples capas y neuronas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
-		5. Reducir tiempos ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
-		6. Modelar datos de JLA ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+- 13:00-13:30. Sesión de preguntas o trabajar algún ejercicio en grupo. Por votación, se trabajará en alguno de los ejercicios opcionales en la parte final del mini-curso:
+	
+	1. Compuertas lógicas ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
+	2. Clasificación lineal ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
+	3. Aproximar función con red neuronal de una capa ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
+	4. Aprender funciones con redes de múltiples capas y neuronas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+	5. Reducir tiempos ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+	6. Modelar datos de JLA ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 
 -----------------------------
 
 ## Referencias
 
 - Sección 1: 
-		- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133. 
 
-		- Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and organization in the brain. Psychological review, 65(6), 386.
+	- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133. 
 
-		- https://jontysinai.github.io/jekyll/update/2017/09/24/the-mcp-neuron.html
+	- Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and organization in the brain. Psychological review, 65(6), 386.
 
-		- https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html 
+	- https://jontysinai.github.io/jekyll/update/2017/09/24/the-mcp-neuron.html
+
+	- https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html 
 
 - Sección 2:
 
-		- Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
+	- Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
 
-    	- https://kevinbinz.com/2019/05/26/intro-gradient-descent/
+	- https://kevinbinz.com/2019/05/26/intro-gradient-descent/
 
-    	- https://mlfromscratch.com/activation-functions-explained/#/
+	- https://mlfromscratch.com/activation-functions-explained/#/
 
-    	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
+	- https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
 
 
 - Sección 3:
 		
-		- https://keras.io/
+	- https://keras.io/
 
-		- https://igomezv.github.io/2020-10-09-intro-neural/
+	- https://igomezv.github.io/2020-10-09-intro-neural/
 
-		- Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2021). Cosmological Reconstructions with Artificial Neural Networks. arXiv preprint arXiv:2104.00595.
+	- Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2021). Cosmological Reconstructions with Artificial Neural Networks. arXiv preprint arXiv:2104.00595.
 
-		- Gómez-Vargas, I., Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a Bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.
+	- Gómez-Vargas, I., Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a Bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.
 
-		- Vázquez, J. A., Esquivel, R. M., & Gómez-Vargas, I. (2021). Cosmologıa observacional con Redes Neuronales Artificiales. Esta edición fue preparada por el Instituto de Física y el Instituto de Ciencias Físicas de la UNAM., 89.
+	- Vázquez, J. A., Esquivel, R. M., & Gómez-Vargas, I. (2021). Cosmologıa observacional con Redes Neuronales Artificiales. Esta edición fue preparada por el Instituto de Física y el Instituto de Ciencias Físicas de la UNAM., 89.
 
 -----------------------------
 
