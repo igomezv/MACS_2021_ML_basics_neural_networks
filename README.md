@@ -63,12 +63,12 @@ Se recomienda descargar el repositorio el día del evento para tener la versión
 
 - 13:00-13:30. Sesión de preguntas o trabajar algún ejercicio en grupo.
 	- Ejercicios opcionales:
-		1. Compuertas lógicas (Notebook 1).
-		2. Clasificación lineal (Notebook 1).
-		3. Aproximar función con red neuronal de una capa (Notebook 2).
-		4. Aprender funciones con redes de múltiples capas y neuronas (Notebook 3).
-		5. Reducir tiempos (Notebook 3).
-		6. Modelar datos de JLA (Notebook 3).
+		1. Compuertas lógicas ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
+		2. Clasificación lineal ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
+		3. Aproximar función con red neuronal de una capa ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
+		4. Aprender funciones con redes de múltiples capas y neuronas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+		5. Reducir tiempos ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+		6. Modelar datos de JLA ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 
 
 -----------------------------
