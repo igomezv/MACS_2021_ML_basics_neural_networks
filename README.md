@@ -4,13 +4,13 @@ La primera parte del curso **Machine Learning Basics** de la [IV Mexican AstroCo
 
 **Fecha:** Lunes 28 de junio de 2021. 
 
-**Hora:** 12:00-13:30.
+**Hora:** 12:00-13:40.
 
 **Instructores:** José Alberto Vázquez (ICF-UNAM) e Isidro Gómez-Vargas (ICF-UNAM)
 
 **Colaborador:** Juan de Dios Rojas Olvera (Facultad de Ciencias, UNAM)
 
-**Duración:** 60 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica.
+**Duración:** 70 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica.
 
 -----------------------------------
 ## Requisitos
@@ -28,13 +28,15 @@ Desde [Google Colab](https://colab.research.google.com) puedes buscar este repos
 
 ## Plan del mini-curso
 
-- 12:00-12:20. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
+- 12:00-12:10. Introducción
+
+- 12:10-12:30. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	
-- 12:20-12:40. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
+- 12:30-12:50. Red neuronal con diferentes funciones de activacion y propagación de errores hacia atrás (backpropagation). ([Notebook 2](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/2-Red_neuronal_backpropagation.ipynb)).
 
-- 12:40-13:00. Redes neuronales con múltiples capas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
+- 12:50-13:10. Redes neuronales con múltiples capas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 
-- 13:00-13:30. Sesión de preguntas o trabajar algún ejercicio en grupo. Por votación, se trabajará en alguno de los ejercicios opcionales en la parte final del mini-curso:
+- 13:10-13:40. Sesión de preguntas o trabajar algún ejercicio en grupo. Por votación, se trabajará en alguno de los ejercicios opcionales en la parte final del mini-curso:
 	
 	1. Compuertas lógicas ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	2. Clasificación lineal ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
