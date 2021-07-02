@@ -1,6 +1,6 @@
 # MACS 2021. Machine Learning Basics I
 
-La primera parte del curso **Machine Learning Basics** de la [IV Mexican AstroCosmoStatistics School (MACS)](http://fisica.ugto.mx/~events/macss/?fbclid=IwAR1UObd3h7WdAYEb3mFOGypAjqXY1LJH3dJ1x24dMrvGoWeiDskgK2vECDc) consiste en un curso básico y breve sobre Redes Neuronales Artificiales.
+La primera parte del curso **Machine Learning Basics** de la [IV Mexican AstroCosmoStatistics School (MACS)](http://fisica.ugto.mx/~events/macss/?fbclid=IwAR1UObd3h7WdAYEb3mFOGypAjqXY1LJH3dJ1x24dMrvGoWeiDskgK2vECDc) consiste en un curso básico y breve sobre Redes Neuronales Artificiales. La información y notas del curso completo **Machine Learning Basics** (redes neuronales, algoritmos genéticos y árboles de desición) está disponible [aquí](https://www.fis.unam.mx/~javazquez/MACSS2021.html).
 
 **Fecha:** Lunes 28 de junio de 2021. 
 
