@@ -28,6 +28,8 @@ Desde [Google Colab](https://colab.research.google.com) puedes buscar este repos
 
 ## Plan del mini-curso
 
+La primera parte del curso quedó grabada en [youtube](https://www.youtube.com/watch?v=ywZdfz7b1_g).
+
 - 12:00-12:30. Introducción
 
 - 12:30-12:50. Primeras neuronas artificiales ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
