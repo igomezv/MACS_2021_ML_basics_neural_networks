@@ -10,7 +10,7 @@ La primera parte del curso **Machine Learning Basics** de la [IV Mexican AstroCo
 
 **Colaborador:** Juan de Dios Rojas Olvera (Facultad de Ciencias, UNAM)
 
-**Duración:** 70 min + 30 min de preguntas o ejercicios. El mini-curso se divide en tres secciones de 20 min y media hora de práctica.
+**Duración:** 3 horas (aprox)
 
 -----------------------------------
 ## Requisitos
