@@ -28,7 +28,7 @@ Desde [Google Colab](https://colab.research.google.com) puedes buscar este repos
 
 ## Plan del mini-curso
 
-La primera parte del curso quedó grabada en [youtube](https://www.youtube.com/watch?v=ywZdfz7b1_g).
+**Nota:** Una parte del curso quedó grabada en [youtube](https://www.youtube.com/watch?v=ywZdfz7b1_g).
 
 - 12:00-12:30. Introducción
 
