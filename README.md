@@ -38,7 +38,7 @@ Desde [Google Colab](https://colab.research.google.com) puedes buscar este repos
 
 - 13:20-13:50. Redes neuronales con múltiples capas ([Notebook 3](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/3-Redes_neuronales_keras.ipynb)).
 
-- 16:00-17:20. Por votación, se trabajó uno de los ejercicios opcionales en la parte final del mini-curso:
+- 16:00-17:20. Se eligió el ejercicio (vii) para trabajarlo en la parte final del mini-curso, que ganó por votación entre los demás ejercicios opcionales:
 	
 	1. Compuertas lógicas ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
 	2. Clasificación lineal ([Notebook 1](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks/blob/main/1-Primeras_neuronas_artificiales.ipynb)).
